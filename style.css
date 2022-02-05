@@ -1,0 +1,13 @@
+body{
+    background-image: url(1.jpg);
+    background-size: 100% auto;
+}
+#mytable{
+    background-color: white;
+}
+#header{
+    background-color: rgb(112, 42, 42);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
